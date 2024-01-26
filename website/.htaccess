@@ -1,0 +1,10 @@
+RewriteEngine on
+
+
+# testing this route: http://localhost/hellodocker
+RewriteRule ^(hellodocker)$ helloworld.php
+
+
+# testing this route: http://localhost/myinfo
+RewriteRule ^(myinfo)$ phpinfox.php
+
