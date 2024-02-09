@@ -10,6 +10,11 @@ It's a legacy website, not a Laravel project.
 
 This website depends on the ".htaccess" file to routing, and I still haven't success to activate the .htaccess file in the Apache... 
 
+# The Solution with ChatGPT
+
+[https://chat.openai.com/c/bf77829f-217a-4653-9fcd-9a5cfd2c53b2](https://chat.openai.com/share/e88ced1f-d5d3-42fa-b797-a62d0fd863f2)
+
+The description below was my "trial and fail" before asking ChatGPT...
 
 ## Starting this repo to find a solution
 
